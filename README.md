@@ -1,1 +1,8 @@
 # Portfolio-CS300-
+Douglas Buckley
+CS-300-T1158
+October 23, 2022
+
+
+  The problem that I was solving for this course was to be able to take data and be able to create a data structure that would be capable of rearranging the data as need be. Some of the methods of apprach that were used in this course was using pseudocode to outline the program and how it would function. Data structures are an important concept to understand since it can be easy to simply use whatever data structure you're comfortable with. However, even if the structure works, that doesn't always mean that it's the most effective method for the job. 
+  I had a hard time overcoming roadblocks this semester and it's something I'm not too proud of. I want to say that I began overestimating my coding abilities, and waited too long to seek out the help of teachers or even tutors. I often found myself opening a dozen tabs and at least two dozen youtube videos to further understand the concepts that I was having a difficult time retaining. The work done of this project has expanded my approach to designing software since I never knew about the Big-O analysis before this class. After having taken this course however, I know understand that when working with data, especially large sets of it, it's important to attempt to use the best data structure for the job, to minimize on runtime of the program. I wouldn't say that this project has changed the way I right my programs in terms of maintainablility and readability, however I feel as though this course has helped me realize that coding will take more than just an hour or so, as it has taken me in my previous courses. 
